@@ -1,3 +1,3 @@
-## Venkateshwaran Palanikumar Portfolio
+## Portfolio
 
 https://venkateshwaran-git.github.io/
